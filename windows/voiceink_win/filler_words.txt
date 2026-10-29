@@ -1,0 +1,21 @@
+# Filler words stripped from dictation. One per line.
+# Plain entries are always removed. Entries starting with ~ are removed only
+# when set off by commas or at a sentence edge, so real uses survive.
+um
+umm
+uh
+uhh
+uhm
+er
+erm
+ah
+hmm
+hm
+mm
+mmm
+~like
+~you know
+~I mean
+~basically
+~kind of
+~sort of
